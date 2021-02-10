@@ -1,0 +1,38 @@
+.header {
+    padding-top: 10px;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    background-color: #0e6848;
+    color: black;
+}
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    height: 250px;
+    width: 100%;
+    float: left;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.float-child.red {
+    margin-right: 20px;
+}
+
+footer {
+    
+    position: fixed;
+    text-align: center;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+}
+
+a {
+    color: black;
+}
