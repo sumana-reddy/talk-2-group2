@@ -5,5 +5,5 @@
  
 ## Team- Members
 <table>
-<td align="center"><a href="https://github.com/sumana-reddy"><img src="https://avatars.githubusercontent.com/u/60014528?s=400&u=1d1b38ceb231dedb3dc4d9de6d41bd1603eb9590&v=4" width="100px;" alt=""/><br /><sub><b>Vikas Basawapuram</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/sumana-reddy"><img src="https://avatars.githubusercontent.com/u/60016064?s=460&u=33898f8b8524f47cd6c76f8ecc4e022cdaa1c118&v=4" width="100px;" alt=""/><br /><sub><b>Sumana Reddy</b></sub></a><br /></td>
  </table>
