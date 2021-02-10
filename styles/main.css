@@ -9,6 +9,7 @@
 .float-container {
     border: 3px solid #fff;
     padding: 20px;
+    background-colour: #0f55bd;
 }
 
 .float-child {
@@ -17,10 +18,12 @@
     float: left;
     padding: 20px;
     border: 2px solid black;
+     background-colour: #f24055;
 }
 
 .float-child.red {
     margin-right: 20px;
+     background-colour: 
 }
 
 footer {
