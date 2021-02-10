@@ -1,7 +1,7 @@
 document.getElementById('box1').addEventListener('click', function (e) {
     e.preventDefault();
     var res = document.getElementById('res');
-    res.innerHTML = "You've choosen green Colour";
+    res.innerHTML = "You've choosen Sapphire Blue Colour";
     box2.style.backgroundColor = 'white';
     msg1.innerHTML = ""
     msg2.innerHTML = "Click here to find colour"
@@ -14,7 +14,7 @@ document.getElementById('box1').addEventListener('click', function (e) {
 document.getElementById("box2").addEventListener('click', function (e) {
     e.preventDefault();
     var res = document.getElementById('res');
-    res.innerHTML = "You've choosen Red Colour";
+    res.innerHTML = "You've choosen Flamingo Colour";
     box1.style.backgroundColor = 'white';
     msg2.innerHTML = ""
     msg1.innerHTML = "Click here to find colour"
